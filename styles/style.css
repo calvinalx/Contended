@@ -1,0 +1,131 @@
+html, body {
+  height: 100%;
+  margin: 0;
+  font-family: 'Century Gothic';
+}
+
+a {
+  color: black;
+}
+
+#start {
+  margin: 0 auto;
+  font-family: 'Century Gothic';
+  text-align: center;
+  margin-top: 4rem;
+  min-height: 100%;
+}
+
+#start h1 {
+  font-size: 6rem;
+  font-weight: bold;
+}
+
+#start h2 {
+  font-size: 73px;
+  font-weight: bold;
+}
+
+.section-footer p {
+  font-family: 'Minion Pro';
+}
+
+.menu-wrapper {
+  font-family: 'Minion Pro';
+  margin: 0 auto;
+  background: #FAC001;
+  height: 108px;
+  width: 108px;
+}
+
+.logo-menu-wrapper {
+  background: #000000 !important;
+  height: 108px;
+  width: 312px;
+}
+
+.menu-image {
+  text-align: center;
+  margin-top: 10px;
+}
+
+.line {
+  height: 155px;
+  border-left: 1px solid #707070;
+}
+
+#menu-full {
+  background: #FAC001;
+  min-height: 100%;
+}
+
+.menu-nav {
+  display: flex;
+  justify-content: center;
+  text-align: left;
+  margin-top: 100px;
+  list-style: none;
+  font-size: 42px;
+  flex-flow: row wrap;
+  font-family: 'Century Gothic';
+  padding-left: 440px;
+}
+
+.menu-nav-item {
+  width: 100%;
+  padding-bottom: 1rem;
+}
+
+.menu-nav-link {
+  font-weight: bold;
+}
+
+.menu-separator {
+  border-bottom: 1px solid #000000;
+  max-width: 414px;
+  padding-top: 3rem;
+  margin: 0 auto;
+}
+
+.menu-footer {
+  font-size: 42px;
+  font-family: 'Century Gothic';
+  font-weight: bold;
+  text-align: center;
+  margin-top: 3rem;
+}
+
+#culture {
+  min-height: 100%;
+  background-image: url('../images/bg-culture.png');
+  background-size: cover;
+}
+
+#concierge {
+  min-height: 100%;
+  background-image: url('../images/bg-concierge.png');
+  background-size: cover;
+}
+
+.content {
+  font-family: 'Minion Pro';
+  margin-top: 2rem;
+  margin-left: 170px;
+  max-width: 450px;
+}
+
+.content-preheading {
+  font-size: 24px;
+  font-family: 'Century Gothic';
+  font-weight: bold;
+}
+
+.content-heading {
+  font-family: 'Century Gothic';
+  font-size: 48px;
+  margin-bottom: 2rem;
+}
+
+.input {
+  
+}
